@@ -486,5 +486,10 @@ B. 90/3 degrees
 C. 94/3 degrees
 D. 95/3 degrees
 
-
+Kushal and Maya started a business by investing Rs. 36,000 and RS. 63,000. Find the share of each, out of the annual profit of Rs. 5500.
+A.Rs. 3500, Rs. 2500
+B.Rs. 2500, Rs. 3500
+C.Rs.4000, Rs. 3500
+D.Rs. 2000, Rs. 3500
+Ans : D - Rs 2000, Rs. 3500
 
